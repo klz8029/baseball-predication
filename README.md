@@ -65,6 +65,36 @@ logistic/isotonic combiner.
 | `run_forward.bat` | wrapper for the Windows scheduled task (edit the Python path) |
 | `base_line.ipynb` | the original exploration notebook (XGBoost attempt, Markov sim, odds builder) |
 
+## Platform layer
+
+The model is the same; this wraps it in the shape a data/ML team would run.
+
+| path | role |
+|---|---|
+| `warehouse/` | **DuckDB** warehouse. `db.py` lands the CSVs; `transforms/*.sql` build `stg_games`, `stg_predictions`, then the `mart_*` tables (bet simulation, decile calibration, Brier/log-loss/ECE, rolling P&L / CLV — all in SQL with CTEs + window functions). |
+| `flows/pipeline.py` | **Prefect** flow that replaces the scheduled task: `settle_and_snapshot` + `ingest_recent_odds` → `build_warehouse` → `refresh_dashboard_data`, plus a weekly `track_experiments`. Deployable on a cron schedule. |
+| `experiments/track.py` | **MLflow** run log. Every combiner tried and rejected (season-only, projection-only, 50/50, the deployed 40/60, the over-fit logistic/isotonic) plus milestone model-input configs, each a run with params + walk-forward metrics. SQLite backing store. |
+| `serving/app.py` | **FastAPI** service around `predict_games()`. Loads a pickled rate cache at startup; `POST /predict` with two team names (optional lineup / starter-ERA overrides) returns P(home win). `GET /model` is the model card. |
+| `serving/build_cache.py` | fetch the rate tables once → `data/feature_cache.pkl` for the container. |
+| `dashboard/app.py` | **Streamlit + Plotly** dashboard on the warehouse marts: calibration curve (model vs market), live P&L with 30-bet rolling closing-line-value, the scoreboard. |
+| `docker/` | `Dockerfile` (API), `Dockerfile.dashboard`, `docker-compose.yml` (API + MLflow UI + dashboard). |
+| `pyproject.toml` | editable install (`pip install -e .`), `[project.optional-dependencies] platform`. |
+
+```bash
+pip install -e ".[platform]"
+
+python warehouse/db.py               # land CSVs + run SQL transforms
+python experiments/track.py          # log the config sweep to MLflow
+python serving/build_cache.py        # fetch the rate cache
+uvicorn serving.app:app              # http://localhost:8000/docs
+streamlit run dashboard/app.py       # http://localhost:8501
+python flows/pipeline.py             # one orchestrated run of the above
+mlflow ui --backend-store-uri sqlite:///mlflow.db
+
+# or the whole stack:
+docker compose -f docker/docker-compose.yml up --build
+```
+
 ## Data files
 
 | file | contents |

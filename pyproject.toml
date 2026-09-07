@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "baseball-winprob"
+version = "0.2.0"
+description = "MLB game win-probability model, validated walk-forward and forward-tested against the Kalshi market"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "pandas",
+    "requests",
+    "scikit-learn",
+    "cryptography",
+]
+
+[project.optional-dependencies]
+# the MLE platform layer
+platform = [
+    "duckdb>=1.0",
+    "mlflow>=2.14",
+    "prefect>=2.19",
+    "fastapi",
+    "uvicorn[standard]",
+    "streamlit",
+    "plotly",
+]
+notebook = ["xgboost", "pybaseball"]
+
+[project.scripts]
+baseball-forward = "forward:main"
+baseball-picks = "picks:main"
+
+[tool.setuptools]
+# flat layout: the model and pipeline modules live at the repo root
+py-modules = [
+    "montecarlo", "blend", "metrics", "backtest",
+    "build_odds", "forward", "picks", "gen_predictions", "walkforward",
+]

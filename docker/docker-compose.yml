@@ -1,0 +1,26 @@
+# Local stack: the model API + the MLflow UI + the calibration dashboard.
+#   docker compose -f docker/docker-compose.yml up --build
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: baseball-winprob-api:0.2.0
+    ports: ["8000:8000"]
+    restart: unless-stopped
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v3.4.0
+    command: >
+      mlflow ui --host 0.0.0.0 --port 5000
+      --backend-store-uri sqlite:////mlflow/mlflow.db
+    volumes: ["../mlflow.db:/mlflow/mlflow.db"]
+    ports: ["5000:5000"]
+
+  dashboard:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.dashboard
+    ports: ["8501:8501"]
+    volumes: ["../data:/app/data:ro"]
+    depends_on: [api]

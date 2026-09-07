@@ -1,7 +1,19 @@
+# core model + backtest
 numpy
 pandas
 requests
 scikit-learn
 cryptography
-xgboost        # base_line.ipynb only
-pybaseball     # base_line.ipynb only
+
+# platform layer (warehouse / orchestration / tracking / serving / dashboard)
+duckdb>=1.0
+mlflow>=3.0
+prefect>=3.0
+fastapi
+uvicorn[standard]
+streamlit
+plotly
+
+# base_line.ipynb only
+xgboost
+pybaseball
