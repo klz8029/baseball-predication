@@ -1,0 +1,152 @@
+snapshot_ts,game_date,away_team,home_team,away_starter,home_starter,lineup_used,model_p_home,entry_p_home,status,close_p_home,home_win,bet_side,bet_edge,pnl_1c,clv,start_utc
+2026-08-29T04:55:00+00:00,2026-08-29,Arizona Diamondbacks,San Francisco Giants,Kohl Drake,Blade Tidwell,True,0.5258,,settled,,0.0,,,,,
+2026-08-29T04:55:00+00:00,2026-08-29,Boston Red Sox,New York Yankees,Jake Bennett,Carlos Rodón,False,0.5603,0.54,settled,0.56,1.0,home,0.02,0.44,0.02,
+2026-08-29T04:55:00+00:00,2026-08-29,Los Angeles Dodgers,Detroit Tigers,Blake Snell,Keider Montero,False,0.3754,0.37,settled,0.36,1.0,,,,,
+2026-08-29T04:55:00+00:00,2026-08-29,Chicago White Sox,Minnesota Twins,Erick Fedde,Bailey Ober,False,0.6038,0.53,settled,0.5,0.0,home,0.074,-0.55,-0.03,
+2026-08-29T04:55:00+00:00,2026-08-29,Pittsburgh Pirates,St. Louis Cardinals,Lake Bachar,Kyle Leahy,False,0.4686,0.52,settled,0.53,0.0,away,0.051,0.5,-0.01,
+2026-08-29T04:55:00+00:00,2026-08-29,Cincinnati Reds,Chicago Cubs,Andrew Abbott,Kevin Gausman,False,0.7102,0.64,settled,0.66,1.0,home,0.07,0.34,0.02,
+2026-08-29T04:55:00+00:00,2026-08-29,Seattle Mariners,Toronto Blue Jays,Kade Anderson,José Soriano,False,0.505,0.53,settled,0.51,1.0,away,0.025,-0.49,0.02,
+2026-08-29T04:55:00+00:00,2026-08-30,Arizona Diamondbacks,San Francisco Giants,,,False,0.5286,,settled,,1.0,,,,,
+2026-08-29T04:55:00+00:00,2026-08-29,Miami Marlins,Washington Nationals,Sandy Alcantara,Cade Cavalli,False,0.4755,0.49,settled,0.49,1.0,,,,,
+2026-08-29T04:55:00+00:00,2026-08-29,Kansas City Royals,Cleveland Guardians,Daniel Lynch IV,Foster Griffin,False,0.5305,0.58,settled,0.6,0.0,away,0.049,0.56,-0.02,
+2026-08-29T04:55:00+00:00,2026-08-29,Houston Astros,New York Mets,Bennett Sousa,Nolan McLean,False,0.5704,0.55,settled,0.58,1.0,home,0.02,0.43,0.03,
+2026-08-29T04:55:00+00:00,2026-08-29,San Diego Padres,Tampa Bay Rays,Walker Buehler,Nick Martinez,False,0.63,0.54,settled,0.54,1.0,home,0.09,0.44,0.0,
+2026-08-29T04:55:00+00:00,2026-08-29,Colorado Rockies,Atlanta Braves,Ryan Feltner,Martín Pérez,False,0.723,0.66,settled,0.67,1.0,home,0.063,0.32,0.01,
+2026-08-29T04:55:00+00:00,2026-08-29,Texas Rangers,Milwaukee Brewers,Cal Quantrill,Shane Drohan,False,0.6362,0.59,settled,0.61,1.0,home,0.046,0.39,0.02,
+2026-08-29T04:55:00+00:00,2026-08-30,Baltimore Orioles,Athletics,Shane Baz,Jack Perkins,False,0.5063,,settled,,0.0,,,,,
+2026-08-29T04:55:00+00:00,2026-08-30,Philadelphia Phillies,Los Angeles Angels,Cristopher Sánchez,Ryan Johnson,False,0.4254,0.35,settled,0.38,0.0,home,0.075,-0.37,0.03,
+2026-08-29T04:55:00+00:00,2026-08-30,Miami Marlins,Washington Nationals,Janson Junk,Andrew Alvarez,False,0.5805,0.48,settled,0.53,0.0,home,0.101,-0.5,0.05,
+2026-08-29T04:55:00+00:00,2026-08-30,Colorado Rockies,Atlanta Braves,Mason Adams,Tyler Mahle,False,0.6512,0.66,settled,0.68,1.0,,,,,
+2026-08-29T04:55:00+00:00,2026-08-30,Boston Red Sox,New York Yankees,Ranger Suarez,Will Warren,False,0.4718,0.48,settled,0.41,1.0,,,,,
+2026-08-29T04:55:00+00:00,2026-08-30,Seattle Mariners,Toronto Blue Jays,Logan Gilbert,Max Scherzer,False,0.4292,0.47,settled,0.43,1.0,away,0.041,-0.55,0.04,
+2026-08-29T04:55:00+00:00,2026-08-30,Kansas City Royals,Cleveland Guardians,Seth Lugo,Parker Messick,False,0.6521,0.6,settled,0.62,1.0,home,0.052,0.38,0.02,
+2026-08-29T04:55:00+00:00,2026-08-30,Los Angeles Dodgers,Detroit Tigers,,Framber Valdez,False,0.4903,0.43,settled,0.4,0.0,home,0.06,-0.45,-0.03,
+2026-08-29T04:55:00+00:00,2026-08-30,San Diego Padres,Tampa Bay Rays,Robbie Ray,Drew Rasmussen,False,0.5463,0.6,settled,0.59,1.0,away,0.054,-0.42,0.01,
+2026-08-29T04:55:00+00:00,2026-08-30,Chicago White Sox,Minnesota Twins,,Zebby Matthews,False,0.5375,0.49,settled,0.51,1.0,home,0.047,0.49,0.02,
+2026-08-29T04:55:00+00:00,2026-08-30,Texas Rangers,Milwaukee Brewers,Kumar Rocker,Dustin May,False,0.6892,0.61,settled,0.61,0.0,home,0.079,-0.63,0.0,
+2026-08-29T04:55:00+00:00,2026-08-30,Pittsburgh Pirates,St. Louis Cardinals,Braxton Ashcraft,Matthew Liberatore,False,0.5197,0.48,settled,0.45,0.0,home,0.04,-0.5,-0.03,
+2026-08-29T04:55:00+00:00,2026-08-30,Houston Astros,New York Mets,,Zac Thornton,False,0.5929,0.53,settled,0.53,0.0,home,0.063,-0.55,0.0,
+2026-08-29T04:55:00+00:00,2026-08-30,Cincinnati Reds,Chicago Cubs,Chase Burns,Shota Imanaga,False,0.5365,0.56,settled,0.59,0.0,away,0.024,0.54,-0.03,
+2026-08-31T21:30:57+00:00,2026-08-31,San Francisco Giants,Atlanta Braves,Anthony Molina,Bryce Elder,True,0.6428,0.65,settled,0.65,0.0,,,,,2026-08-31T22:05:00
+2026-08-31T21:30:57+00:00,2026-08-31,San Diego Padres,Cincinnati Reds,Michael King,Brady Singer,True,0.4229,0.42,settled,0.41,0.0,,,,,2026-08-31T22:40:00
+2026-08-31T21:30:57+00:00,2026-08-31,New York Mets,Tampa Bay Rays,Robert Stock,Ian Seymour,True,0.7296,0.63,settled,0.63,0.0,home,0.1,-0.65,0.0,2026-08-31T22:40:00
+2026-08-31T21:30:57+00:00,2026-08-31,Seattle Mariners,Boston Red Sox,George Kirby,Payton Tolle,True,0.65,0.59,settled,0.59,1.0,home,0.06,0.39,0.0,2026-08-31T22:45:00
+2026-08-31T21:30:57+00:00,2026-08-31,Miami Marlins,Washington Nationals,Ryan Gusto,Will Dion,True,0.5597,0.49,settled,0.49,1.0,home,0.07,0.49,0.0,2026-08-31T22:45:00
+2026-08-31T23:12:12+00:00,2026-08-31,Detroit Tigers,Minnesota Twins,Jackson Jobe,Taj Bradley,True,0.5772,0.53,settled,0.53,1.0,home,0.047,0.45,0.0,2026-08-31T23:40:00
+2026-08-31T23:12:12+00:00,2026-08-31,Milwaukee Brewers,Chicago Cubs,Kyle Harrison,Clay Holmes,True,0.611,0.48,settled,0.48,1.0,home,0.131,0.5,0.0,2026-08-31T23:40:00
+2026-08-31T23:12:12+00:00,2026-09-01,Athletics,Texas Rangers,Gage Jump,Jacob deGrom,True,0.7172,,settled,,1.0,,,,,2026-09-01T00:05:00
+2026-08-31T23:12:12+00:00,2026-09-01,Chicago White Sox,Houston Astros,Anthony Kay,Peter Lambert,True,0.5673,0.51,settled,0.51,1.0,home,0.057,0.47,0.0,2026-09-01T00:10:00
+2026-08-31T23:12:12+00:00,2026-09-01,Baltimore Orioles,Colorado Rockies,Cade Povich,Tanner Gordon,True,0.4263,0.42,settled,0.42,0.0,,,,,2026-09-01T00:40:00
+2026-08-31T23:12:12+00:00,2026-09-01,New York Yankees,Los Angeles Angels,Elmer Rodríguez,Walbert Ureña,False,0.5221,0.37,settled,0.38,1.0,home,0.152,0.61,0.01,2026-09-01T01:38:00
+2026-08-31T23:12:12+00:00,2026-09-01,Philadelphia Phillies,Arizona Diamondbacks,Aaron Nola,Brandon Pfaadt,False,0.555,,settled,,0.0,,,,,2026-09-01T01:40:00
+2026-09-01T21:43:01+00:00,2026-09-01,San Diego Padres,Cincinnati Reds,Randy Vásquez,Nick Lodolo,True,0.4891,0.44,settled,0.44,1.0,home,0.049,0.54,-0.0,2026-09-01T22:40:00
+2026-09-01T21:43:01+00:00,2026-09-01,San Francisco Giants,Pittsburgh Pirates,Logan Webb,Paul Skenes,True,0.5965,0.6,settled,0.6,1.0,,,,,2026-09-01T22:40:00
+2026-09-01T21:43:01+00:00,2026-09-01,New York Mets,Tampa Bay Rays,Sean Manaea,Freddy Peralta,True,0.4598,0.56,settled,0.56,1.0,away,0.1,-0.46,0.0,2026-09-01T22:40:00
+2026-09-01T21:43:01+00:00,2026-09-01,Toronto Blue Jays,Cleveland Guardians,Spencer Miles,Gavin Williams,True,0.4913,0.61,settled,0.61,1.0,away,0.119,-0.41,0.0,2026-09-01T22:40:00
+2026-09-01T21:43:01+00:00,2026-09-01,Seattle Mariners,Boston Red Sox,Bryan Woo,Jedixson Paez,True,0.4177,0.52,settled,0.52,0.0,away,0.102,0.5,0.0,2026-09-01T22:45:00
+2026-09-01T21:43:01+00:00,2026-09-01,Atlanta Braves,Washington Nationals,AJ Smith-Shawver,Jake Irvin,True,0.4037,0.42,settled,0.42,1.0,,,,,2026-09-01T22:45:00
+2026-09-01T21:43:01+00:00,2026-09-01,Detroit Tigers,Minnesota Twins,Troy Melton,Andrew Morris,True,0.4888,0.5,settled,0.5,1.0,,,,,2026-09-01T23:40:00
+2026-09-01T21:43:01+00:00,2026-09-01,Miami Marlins,Kansas City Royals,Tyler Phillips,Randy Dobnak,True,0.5066,0.52,settled,0.51,0.0,,,,,2026-09-01T23:40:00
+2026-09-01T21:43:01+00:00,2026-09-01,Milwaukee Brewers,Chicago Cubs,Robert Gasser,Matthew Boyd,True,0.6805,0.54,settled,0.53,0.0,home,0.14,-0.56,-0.01,2026-09-01T23:40:00
+2026-09-01T21:43:01+00:00,2026-09-02,Athletics,Texas Rangers,Brady Basso,MacKenzie Gore,True,0.699,,settled,,1.0,,,,,2026-09-02T00:05:00
+2026-09-01T21:43:01+00:00,2026-09-02,Chicago White Sox,Houston Astros,Sean Burke,Ronel Blanco,True,0.5454,0.53,settled,0.53,0.0,,,,,2026-09-02T00:10:00
+2026-09-01T21:43:01+00:00,2026-09-02,Baltimore Orioles,Colorado Rockies,Kyle Bradish,Gabriel Hughes,False,0.3643,0.42,settled,0.41,1.0,away,0.056,-0.6,0.01,2026-09-02T00:40:00
+2026-09-01T21:43:01+00:00,2026-09-02,New York Yankees,Los Angeles Angels,Gerrit Cole,Grayson Rodriguez,False,0.3771,0.39,settled,0.39,0.0,,,,,2026-09-02T01:38:00
+2026-09-01T21:43:01+00:00,2026-09-02,Philadelphia Phillies,Arizona Diamondbacks,Jesús Luzardo,Eduardo Rodriguez,False,0.5431,,settled,,0.0,,,,,2026-09-02T01:40:00
+2026-09-01T21:43:01+00:00,2026-09-02,St. Louis Cardinals,Los Angeles Dodgers,Michael McGreevy,Eric Lauer,False,0.6218,0.68,settled,0.68,0.0,away,0.058,0.66,0.0,2026-09-02T02:10:00
+2026-09-02T13:53:37+00:00,2026-09-02,San Diego Padres,Cincinnati Reds,Casey Mize,Brandon Williamson,True,0.4341,0.41,settled,0.4,1.0,home,0.024,0.57,-0.01,2026-09-02T16:40:00
+2026-09-02T13:53:37+00:00,2026-09-02,Atlanta Braves,Washington Nationals,Grant Holmes,Brad Lord,False,0.5093,0.4,settled,0.42,0.0,home,0.109,-0.42,0.02,2026-09-02T17:05:00
+2026-09-02T13:53:37+00:00,2026-09-02,Seattle Mariners,Boston Red Sox,Bryce Miller,Patrick Sandoval,False,0.5847,0.56,settled,0.57,0.0,home,0.025,-0.58,0.01,2026-09-02T20:10:00
+2026-09-02T21:47:22+00:00,2026-09-02,San Francisco Giants,Pittsburgh Pirates,Landen Roupp,Bubba Chandler,True,0.6129,0.59,settled,0.59,0.0,home,0.023,-0.61,0.0,2026-09-02T22:40:00
+2026-09-02T21:47:22+00:00,2026-09-02,New York Mets,Tampa Bay Rays,Justin Hagenman,Griffin Jax,True,0.6102,0.62,settled,0.62,0.0,,,,,2026-09-02T22:40:00
+2026-09-02T21:47:22+00:00,2026-09-02,Toronto Blue Jays,Cleveland Guardians,Dylan Cease,Joey Cantillo,True,0.5449,0.45,settled,0.44,0.0,home,0.095,-0.47,-0.01,2026-09-02T22:40:00
+2026-09-02T21:47:22+00:00,2026-09-02,Detroit Tigers,Minnesota Twins,Drew Anderson,Dean Kremer,True,0.5465,0.51,settled,0.51,0.0,home,0.036,-0.53,0.0,2026-09-02T23:40:00
+2026-09-02T21:47:22+00:00,2026-09-02,Miami Marlins,Kansas City Royals,Eury Pérez,Noah Cameron,True,0.5282,0.51,settled,0.51,0.0,,,,,2026-09-02T23:40:00
+2026-09-02T21:47:22+00:00,2026-09-02,Milwaukee Brewers,Chicago Cubs,Jacob Misiorowski,David Peterson,True,0.3969,0.4,settled,0.41,0.0,,,,,2026-09-02T23:40:00
+2026-09-02T21:47:22+00:00,2026-09-03,Chicago White Sox,Houston Astros,Davis Martin,Hayden Wesneski,True,0.6279,0.59,settled,0.6,1.0,home,0.038,0.39,0.01,2026-09-03T00:10:00
+2026-09-02T21:47:22+00:00,2026-09-03,New York Yankees,Los Angeles Angels,Cam Schlittler,Reid Detmers,False,0.3802,,settled,,0.0,,,,,2026-09-03T01:38:00
+2026-09-02T21:47:22+00:00,2026-09-03,St. Louis Cardinals,Los Angeles Dodgers,,Yoshinobu Yamamoto,False,0.7353,0.73,settled,0.71,0.0,,,,,2026-09-03T02:10:00
+2026-09-02T21:47:22+00:00,2026-09-03,San Francisco Giants,Pittsburgh Pirates,Blade Tidwell,,False,0.6344,0.59,settled,0.6,1.0,home,0.044,0.39,0.01,2026-09-03T16:35:00
+2026-09-02T21:47:22+00:00,2026-09-03,Toronto Blue Jays,Cleveland Guardians,José Soriano,Tanner Bibee,False,0.5114,0.52,settled,0.5,0.0,,,,,2026-09-03T17:10:00
+2026-09-02T21:47:22+00:00,2026-09-03,Boston Red Sox,Baltimore Orioles,Jake Bennett,,False,0.4172,0.47,settled,0.47,0.0,away,0.053,0.45,0.0,2026-09-03T23:15:00
+2026-09-02T21:47:22+00:00,2026-09-03,Milwaukee Brewers,Chicago Cubs,Logan Henderson,Kevin Gausman,False,0.4516,0.5,settled,0.45,1.0,away,0.048,-0.52,0.05,2026-09-03T23:15:00
+2026-09-02T21:47:22+00:00,2026-09-03,Miami Marlins,Kansas City Royals,Sandy Alcantara,Michael Wacha,False,0.4932,0.48,settled,0.52,1.0,,,,,2026-09-03T23:40:00
+2026-09-03T23:56:52+00:00,2026-09-04,Tampa Bay Rays,Texas Rangers,Shane McClanahan,Cal Quantrill,True,0.4851,0.48,settled,0.48,1.0,,,,,2026-09-04T00:05:00
+2026-09-03T23:56:52+00:00,2026-09-04,Athletics,Seattle Mariners,Jack Perkins,Kade Anderson,True,0.6098,,settled,,0.0,,,,,2026-09-04T01:40:00
+2026-09-03T23:56:52+00:00,2026-09-04,St. Louis Cardinals,Los Angeles Dodgers,Quinn Mathews,Tarik Skubal,True,0.6702,,settled,,1.0,,,,,2026-09-04T02:10:00
+2026-09-03T23:56:52+00:00,2026-09-04,Detroit Tigers,Cleveland Guardians,Keider Montero,Logan Allen,False,0.5712,0.54,settled,0.55,1.0,home,0.031,0.44,0.01,2026-09-04T18:10:00
+2026-09-03T23:56:52+00:00,2026-09-04,Milwaukee Brewers,Cincinnati Reds,Shane Drohan,Rhett Lowder,False,0.4483,0.39,settled,0.4,0.0,home,0.058,-0.41,0.01,2026-09-04T22:10:00
+2026-09-04T22:32:36+00:00,2026-09-04,Atlanta Braves,Philadelphia Phillies,Chris Sale,Cristopher Sánchez,True,0.5297,0.52,settled,0.52,0.0,,,,,2026-09-04T22:40:00
+2026-09-04T22:32:36+00:00,2026-09-04,Los Angeles Angels,Pittsburgh Pirates,Ryan Johnson,Jared Jones,True,0.6782,0.63,settled,0.63,1.0,home,0.048,0.35,0.0,2026-09-04T22:45:00
+2026-09-04T22:32:36+00:00,2026-09-04,Boston Red Sox,Baltimore Orioles,Ranger Suarez,Shane Baz,True,0.4878,0.48,settled,0.48,0.0,,,,,2026-09-04T23:05:00
+2026-09-04T22:32:36+00:00,2026-09-04,San Francisco Giants,New York Mets,Matt Wilkinson,Nolan McLean,True,0.5912,0.64,settled,0.65,1.0,away,0.049,-0.38,-0.01,2026-09-04T23:10:00
+2026-09-04T22:32:36+00:00,2026-09-04,Chicago Cubs,Miami Marlins,Shota Imanaga,Janson Junk,True,0.4768,0.39,settled,0.39,0.0,home,0.087,-0.41,0.0,2026-09-04T23:10:00
+2026-09-04T22:32:36+00:00,2026-09-04,Minnesota Twins,Chicago White Sox,Zebby Matthews,Erick Fedde,True,0.5448,0.52,settled,0.52,1.0,home,0.025,0.46,0.0,2026-09-04T23:40:00
+2026-09-04T22:32:36+00:00,2026-09-05,Tampa Bay Rays,Texas Rangers,Nick Martinez,Trevor Williams,True,0.4265,0.48,settled,0.49,0.0,away,0.053,0.46,-0.01,2026-09-05T00:05:00
+2026-09-04T22:32:36+00:00,2026-09-05,Arizona Diamondbacks,Houston Astros,Merrill Kelly,Cristian Javier,True,0.5628,,settled,,1.0,,,,,2026-09-05T00:10:00
+2026-09-04T22:32:36+00:00,2026-09-05,Toronto Blue Jays,Kansas City Royals,Jameson Taillon,Daniel Lynch IV,True,0.5018,0.51,settled,0.51,0.0,,,,,2026-09-05T00:10:00
+2026-09-04T22:32:36+00:00,2026-09-05,St. Louis Cardinals,Colorado Rockies,Andre Pallante,Ryan Feltner,True,0.5247,0.47,settled,0.47,0.0,home,0.055,-0.49,0.0,2026-09-05T00:40:00
+2026-09-04T22:32:36+00:00,2026-09-05,New York Yankees,San Diego Padres,Max Fried,Walker Buehler,False,0.4509,0.51,settled,0.51,1.0,away,0.059,-0.51,0.0,2026-09-05T01:40:00
+2026-09-04T22:32:36+00:00,2026-09-05,Washington Nationals,Los Angeles Dodgers,Jackson Kent,Blake Snell,False,0.6861,0.68,settled,0.67,1.0,,,,,2026-09-05T02:10:00
+2026-09-04T22:32:36+00:00,2026-09-05,Athletics,Seattle Mariners,Kade Morris,Logan Gilbert,True,0.7753,,settled,,0.0,,,,,2026-09-05T02:10:00
+2026-09-04T22:32:36+00:00,2026-09-05,San Francisco Giants,New York Mets,Anthony Molina,Zac Thornton,False,0.692,0.62,settled,0.6,0.0,home,0.072,-0.64,-0.02,2026-09-05T20:10:00
+2026-09-04T22:32:36+00:00,2026-09-05,Chicago Cubs,Miami Marlins,,Ryan Gusto,False,0.4913,0.43,settled,0.46,0.0,home,0.061,-0.45,0.03,2026-09-05T20:10:00
+2026-09-04T22:32:36+00:00,2026-09-05,Atlanta Braves,Philadelphia Phillies,Martín Pérez,Zack Wheeler,False,0.5554,0.59,settled,0.59,1.0,away,0.035,-0.43,-0.0,2026-09-05T22:05:00
+2026-09-04T22:32:36+00:00,2026-09-05,Detroit Tigers,Cleveland Guardians,Framber Valdez,Parker Messick,False,0.587,0.56,settled,0.58,0.0,home,0.027,-0.58,0.02,2026-09-05T22:10:00
+2026-09-04T22:32:36+00:00,2026-09-05,Los Angeles Angels,Pittsburgh Pirates,Yusei Kikuchi,Braxton Ashcraft,False,0.5881,0.62,settled,0.63,0.0,away,0.032,0.6,-0.01,2026-09-05T22:40:00
+2026-09-04T22:32:36+00:00,2026-09-05,Milwaukee Brewers,Cincinnati Reds,Dustin May,Andrew Abbott,False,0.5087,0.4,settled,0.41,1.0,home,0.109,0.58,0.01,2026-09-05T22:40:00
+2026-09-04T22:32:36+00:00,2026-09-05,Boston Red Sox,Baltimore Orioles,Sonny Gray,Chris Bassitt,False,0.45,0.43,settled,0.45,0.0,home,0.02,-0.45,0.02,2026-09-05T23:05:00
+2026-09-04T22:32:36+00:00,2026-09-05,Minnesota Twins,Chicago White Sox,Taj Bradley,Anthony Kay,False,0.5291,0.53,settled,0.53,0.0,,,,,2026-09-05T23:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,St. Louis Cardinals,Colorado Rockies,Matthew Liberatore,Mason Adams,True,0.4757,0.45,settled,0.44,0.0,home,0.026,-0.47,-0.01,2026-09-06T00:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,Washington Nationals,Los Angeles Dodgers,Cade Cavalli,Tyler Glasnow,True,0.6946,0.66,settled,0.65,1.0,home,0.035,0.32,-0.01,2026-09-06T01:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,Athletics,Seattle Mariners,Jeffrey Springs,George Kirby,True,0.5348,,settled,,1.0,,,,,2026-09-06T01:40:00
+2026-09-05T23:37:32+00:00,2026-09-06,Milwaukee Brewers,Cincinnati Reds,Kyle Harrison,Brady Singer,False,0.467,0.41,settled,0.43,1.0,home,0.057,0.57,0.02,2026-09-06T16:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,Atlanta Braves,Philadelphia Phillies,Tyler Mahle,Aaron Nola,False,0.4544,0.5,settled,0.49,0.0,away,0.046,0.48,0.01,2026-09-06T17:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,Boston Red Sox,Baltimore Orioles,Payton Tolle,Kyle Bradish,False,0.4823,0.45,settled,0.45,0.0,home,0.032,-0.47,-0.0,2026-09-06T17:35:00
+2026-09-05T23:37:32+00:00,2026-09-06,Los Angeles Angels,Pittsburgh Pirates,Walbert Ureña,Paul Skenes,False,0.6379,0.63,settled,0.61,1.0,,,,,2026-09-06T17:35:00
+2026-09-05T23:37:32+00:00,2026-09-06,Detroit Tigers,Cleveland Guardians,Jackson Jobe,Gavin Williams,False,0.5917,0.58,settled,0.6,1.0,,,,,2026-09-06T17:40:00
+2026-09-05T23:37:32+00:00,2026-09-06,San Francisco Giants,New York Mets,Cesar Perdomo,Christian Scott,False,0.5589,0.58,settled,0.6,1.0,away,0.021,-0.44,-0.02,2026-09-06T17:40:00
+2026-09-05T23:37:32+00:00,2026-09-06,Chicago Cubs,Miami Marlins,Clay Holmes,Tyler Phillips,False,0.478,0.43,settled,0.43,1.0,home,0.048,0.55,0.0,2026-09-06T17:40:00
+2026-09-05T23:37:32+00:00,2026-09-06,Arizona Diamondbacks,Houston Astros,Eduardo Rodriguez,Peter Lambert,False,0.5827,,settled,,0.0,,,,,2026-09-06T18:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,Toronto Blue Jays,Kansas City Royals,,Randy Dobnak,False,0.4887,0.49,settled,0.47,1.0,,,,,2026-09-06T18:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,Tampa Bay Rays,Texas Rangers,,MacKenzie Gore,False,0.5479,0.49,settled,0.5,1.0,home,0.058,0.49,0.01,2026-09-06T18:35:00
+2026-09-05T23:37:32+00:00,2026-09-06,New York Yankees,San Diego Padres,Gerrit Cole,Michael King,False,0.5227,0.49,settled,0.51,1.0,home,0.033,0.49,0.02,2026-09-06T20:10:00
+2026-09-05T23:37:32+00:00,2026-09-06,Minnesota Twins,Chicago White Sox,Bailey Ober,,False,0.5155,0.57,settled,0.57,1.0,away,0.054,-0.45,-0.0,2026-09-06T22:20:00
+2026-09-06T23:05:53+00:00,2026-09-07,Washington Nationals,Los Angeles Dodgers,Andrew Alvarez,Justin Wrobleski,False,0.6891,,settled,,1.0,,,,,2026-09-07T02:10:00
+2026-09-07T15:31:45+00:00,2026-09-07,Atlanta Braves,Philadelphia Phillies,Grant Holmes,Jesús Luzardo,True,0.6177,0.62,open,,,,,,,2026-09-07T17:05:00
+2026-09-07T15:31:45+00:00,2026-09-07,New York Mets,Miami Marlins,Jonah Tong,Eury Pérez,True,0.6081,0.55,open,,,,,,,2026-09-07T17:10:00
+2026-09-07T15:31:45+00:00,2026-09-07,Los Angeles Angels,Boston Red Sox,Grayson Rodriguez,Brayan Bello,True,0.6425,0.61,open,,,,,,,2026-09-07T17:35:00
+2026-09-07T15:31:45+00:00,2026-09-07,Cleveland Guardians,Baltimore Orioles,Joey Cantillo,Trevor Rogers,True,0.6297,0.55,open,,,,,,,2026-09-07T17:35:00
+2026-09-07T15:31:45+00:00,2026-09-07,Arizona Diamondbacks,Kansas City Royals,Derek Law,Noah Cameron,True,0.423,,open,,,,,,,2026-09-07T18:10:00
+2026-09-07T15:31:45+00:00,2026-09-07,Chicago Cubs,Milwaukee Brewers,Matthew Boyd,Robert Gasser,False,0.4117,0.53,open,,,,,,,2026-09-07T18:10:00
+2026-09-07T15:31:45+00:00,2026-09-07,Minnesota Twins,Detroit Tigers,Joe Ryan,Troy Melton,False,0.5683,0.52,open,,,,,,,2026-09-07T19:10:00
+2026-09-07T15:31:45+00:00,2026-09-07,Washington Nationals,San Diego Padres,Jake Irvin,Nick Pivetta,False,0.6741,0.64,open,,,,,,,2026-09-07T21:10:00
+2026-09-07T15:31:45+00:00,2026-09-08,St. Louis Cardinals,San Francisco Giants,Michael McGreevy,Logan Webb,False,0.6124,0.5,open,,,,,,,2026-09-08T00:10:00
+2026-09-07T15:31:45+00:00,2026-09-08,Cincinnati Reds,Los Angeles Dodgers,Chase Burns,,False,0.6296,0.68,open,,,,,,,2026-09-08T01:10:00
+2026-09-07T15:31:45+00:00,2026-09-08,Toronto Blue Jays,Athletics,Dylan Cease,Jacob Lopez,False,0.4937,,open,,,,,,,2026-09-08T02:05:00
+2026-09-07T15:31:45+00:00,2026-09-08,Cleveland Guardians,Baltimore Orioles,Tanner Bibee,Brandon Young,False,0.5311,0.51,open,,,,,,,2026-09-08T22:35:00
+2026-09-07T15:31:45+00:00,2026-09-08,Minnesota Twins,Detroit Tigers,Dean Kremer,Drew Anderson,False,0.5567,0.51,open,,,,,,,2026-09-08T22:40:00
+2026-09-07T15:31:45+00:00,2026-09-08,Houston Astros,Philadelphia Phillies,Hayden Wesneski,Andrew Painter,False,0.4647,0.55,open,,,,,,,2026-09-08T22:40:00
+2026-09-07T15:31:45+00:00,2026-09-08,New York Mets,Miami Marlins,Sean Manaea,Sandy Alcantara,False,0.5529,0.5,open,,,,,,,2026-09-08T22:40:00
+2026-09-07T15:31:45+00:00,2026-09-08,Los Angeles Angels,Boston Red Sox,Reid Detmers,Patrick Sandoval,False,0.5968,0.58,open,,,,,,,2026-09-08T22:45:00
+2026-09-07T15:31:45+00:00,2026-09-08,Colorado Rockies,New York Yankees,Gabriel Hughes,Cam Schlittler,False,0.6892,0.69,open,,,,,,,2026-09-08T23:05:00
+2026-09-07T15:31:45+00:00,2026-09-08,Tampa Bay Rays,Atlanta Braves,Freddy Peralta,AJ Smith-Shawver,False,0.5444,0.5,open,,,,,,,2026-09-08T23:15:00
+2026-09-07T15:31:45+00:00,2026-09-08,Arizona Diamondbacks,Kansas City Royals,,Michael Wacha,False,0.5761,,open,,,,,,,2026-09-08T23:40:00
+2026-09-07T15:31:45+00:00,2026-09-08,Pittsburgh Pirates,Chicago White Sox,Bubba Chandler,Sean Burke,False,0.4902,0.55,open,,,,,,,2026-09-08T23:40:00
+2026-09-07T15:31:45+00:00,2026-09-08,Chicago Cubs,Milwaukee Brewers,David Peterson,Jacob Misiorowski,False,0.655,0.61,open,,,,,,,2026-09-08T23:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,Washington Nationals,San Diego Padres,,,False,0.5799,0.6,open,,,,,,,2026-09-09T01:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,Texas Rangers,Seattle Mariners,,,False,0.5573,0.56,open,,,,,,,2026-09-09T01:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,Toronto Blue Jays,Athletics,José Soriano,Jack Perkins,False,0.4739,,open,,,,,,,2026-09-09T01:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,St. Louis Cardinals,San Francisco Giants,Quinn Mathews,Landen Roupp,False,0.5426,0.49,open,,,,,,,2026-09-09T01:45:00
+2026-09-07T15:31:45+00:00,2026-09-09,Cincinnati Reds,Los Angeles Dodgers,Nick Lodolo,Tarik Skubal,False,0.6943,0.71,open,,,,,,,2026-09-09T02:10:00
+2026-09-07T15:31:45+00:00,2026-09-09,Minnesota Twins,Detroit Tigers,Zebby Matthews,Keider Montero,False,0.6077,,open,,,,,,,2026-09-09T17:10:00
+2026-09-07T15:31:45+00:00,2026-09-09,Cleveland Guardians,Baltimore Orioles,Foster Griffin,Shane Baz,False,0.5498,0.49,open,,,,,,,2026-09-09T22:35:00
+2026-09-07T15:31:45+00:00,2026-09-09,Houston Astros,Philadelphia Phillies,Hunter Brown,Cristopher Sánchez,False,0.585,,open,,,,,,,2026-09-09T22:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,New York Mets,Miami Marlins,,Janson Junk,False,0.552,0.5,open,,,,,,,2026-09-09T22:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,Los Angeles Angels,Boston Red Sox,Ryan Johnson,Jake Bennett,False,0.7231,,open,,,,,,,2026-09-09T22:45:00
+2026-09-07T15:31:45+00:00,2026-09-09,Colorado Rockies,New York Yankees,Tomoyuki Sugano,Will Warren,False,0.6324,0.64,open,,,,,,,2026-09-09T23:05:00
+2026-09-07T15:31:45+00:00,2026-09-09,Tampa Bay Rays,Atlanta Braves,Griffin Jax,,False,0.5781,0.49,open,,,,,,,2026-09-09T23:15:00
+2026-09-07T15:31:45+00:00,2026-09-09,Arizona Diamondbacks,Kansas City Royals,,Daniel Lynch IV,False,0.4624,,open,,,,,,,2026-09-09T23:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,Pittsburgh Pirates,Chicago White Sox,,Davis Martin,False,0.4811,0.53,open,,,,,,,2026-09-09T23:40:00
+2026-09-07T15:31:45+00:00,2026-09-09,Chicago Cubs,Milwaukee Brewers,Kevin Gausman,Logan Henderson,False,0.6419,0.52,open,,,,,,,2026-09-09T23:40:00
+2026-09-07T15:31:45+00:00,2026-09-10,Cincinnati Reds,Los Angeles Dodgers,Rhett Lowder,Yoshinobu Yamamoto,False,0.7653,,open,,,,,,,2026-09-10T02:10:00

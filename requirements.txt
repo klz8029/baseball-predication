@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+scikit-learn
+cryptography
+xgboost        # base_line.ipynb only
+pybaseball     # base_line.ipynb only
